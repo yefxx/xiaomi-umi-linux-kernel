@@ -1,5 +1,7 @@
 /*
  * Copyright (c) 2014, The Linux Foundation. All rights reserved.
+ * Copyright (c) BayLibre, SAS.
+ * Author : Neil Armstrong <narmstrong@baylibre.com>
  *
  * This software is licensed under the terms of the GNU General Public
  * License version 2, as published by the Free Software Foundation, and
@@ -11,8 +13,8 @@
  * GNU General Public License for more details.
  */
 
-#ifndef _DT_BINDINGS_CLK_LCC_MSM8960_H
-#define _DT_BINDINGS_CLK_LCC_MSM8960_H
+#ifndef _DT_BINDINGS_CLK_LCC_MDM9615_H
+#define _DT_BINDINGS_CLK_LCC_MDM9615_H
 
 #define PLL4				0
 #define MI2S_OSR_SRC			1
